@@ -289,8 +289,8 @@ section{
 
 .section-video .video .videoView .output_canvas{
   position: absolute;
-  /* border: 1px white solid; */
-  top: 533px;
+  border: 1px white solid;
+  top: 540px;
 }
 
 video {

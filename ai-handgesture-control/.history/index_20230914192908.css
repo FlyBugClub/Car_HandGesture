@@ -275,8 +275,8 @@ section{
 
 .video .videoView p.lbl-WebcamDesktop{
   width: 400px;
-  height: 37px;
-  padding-top: 4px;
+  height: 45px;
+  /* padding-top: 4px; */
   text-align: center;
   font-size: 24px;
   font-weight: 700;
@@ -290,7 +290,7 @@ section{
 .section-video .video .videoView .output_canvas{
   position: absolute;
   /* border: 1px white solid; */
-  top: 533px;
+  top: 543px;
 }
 
 video {

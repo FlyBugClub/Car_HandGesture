@@ -245,7 +245,7 @@ section{
 }
 
 .video button.btn_enable{
-  width: 700px;
+  width: 600px;
   height: 45px;
   font-size: 24px;
   font-weight: 700;
@@ -275,7 +275,7 @@ section{
 
 .video .videoView p.lbl-WebcamDesktop{
   width: 400px;
-  height: 37px;
+  height: 45px;
   padding-top: 4px;
   text-align: center;
   font-size: 24px;
@@ -283,6 +283,7 @@ section{
   background-color: #3d3d3d;
   color: white;
   border: white 3px solid;
+  border-radius: 0px;
   cursor: default;
   -webkit-user-select: none!important;
 }
@@ -290,7 +291,7 @@ section{
 .section-video .video .videoView .output_canvas{
   position: absolute;
   /* border: 1px white solid; */
-  top: 533px;
+  top: 543px;
 }
 
 video {
