@@ -288,10 +288,8 @@ section{
   -webkit-user-select: none!important;
 }
 
-.section-video .video .videoView .output_canvas{
-  position: absolute;
-  border: 1px white solid;
-  top: 543px;
+.video .videoView .output_canvas{
+  position: relative;
 }
 
 video {
